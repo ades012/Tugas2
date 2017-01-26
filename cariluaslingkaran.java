@@ -7,7 +7,7 @@ public static void main(String[] args)
 {
 Scanner input = new Scanner(System.in);
 
-double phi = 22/7;
+double phi = 3.14;
 double r, luas;
 
 System.out.println("Program Luas Lingkaran\n");
